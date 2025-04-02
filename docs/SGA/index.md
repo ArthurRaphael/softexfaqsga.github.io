@@ -1,9 +1,9 @@
 ---
-title: FAP
+title: SGA
 nav_order: 3
 ---
 
-# FAP (FAQ)
+# SGA (FAQ)
 
 
 A Formação Acelerada em Programação tem o objetivo de capacitar jovens e adultos desenvolvedores em linguagens Front-end e Back-end, alinhados com as demandas atuais do mercado de tecnologia no Brasil.
