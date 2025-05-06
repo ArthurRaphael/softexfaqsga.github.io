@@ -1,6 +1,6 @@
 ---
 title: Adicionando Nova Associação
-parent: SGA
+parent: SGA - Admin
 nav_order: 5
 ---
 

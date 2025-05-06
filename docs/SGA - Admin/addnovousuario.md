@@ -1,6 +1,6 @@
 ---
 title: Adicionando Novo Usuário
-parent: SGA
+parent: SGA - Admin
 nav_order: 5
 ---
 

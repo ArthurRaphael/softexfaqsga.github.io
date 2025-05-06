@@ -1,6 +1,6 @@
 ---
 title: Editando Perfil do Admin
-parent: SGA
+parent: SGA - Admin
 nav_order: 5
 ---
 

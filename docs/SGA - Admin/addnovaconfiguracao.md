@@ -1,6 +1,6 @@
 ---
 title: Adicionando Nova Configuração
-parent: SGA
+parent: SGA - Admin
 nav_order: 5
 ---
 

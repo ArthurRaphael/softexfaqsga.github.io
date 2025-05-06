@@ -1,6 +1,6 @@
 ---
 title: Importando Cadastro de Empresa
-parent: SGA
+parent: SGA - Admin
 nav_order: 5
 ---
 
