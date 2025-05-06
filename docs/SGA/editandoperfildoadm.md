@@ -1,10 +1,11 @@
 ---
-title: Editando o Perfil do Admin
+title: Editando Perfil do Admin
 parent: SGA
-nav_order: 1
+nav_order: 5
 ---
 
-#  Editando o Perfil do Admin
+#  Editando Perfil do Admin
 ---
 
-Na parte superior, coloque o mouse em cima do nome do perfil (Por exemplo: Developer Dev), quando o menu aparecer,clique em **“Editar Perfil”**. Realize as mudanças necessárias. Para finalizar, clique em **“Salvar”**.
+Na parte superior, coloque o mouse em cima do nome do perfil (Por exemplo: Developer Dev), quando o menu aparecer,clique em “Editar Perfil”. Realize as mudanças necessárias. Para finalizar, clique em “Salvar”.
+
