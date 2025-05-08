@@ -1,7 +1,7 @@
 ---
 title: Como se cadastrar como um representante de empresa
 parent: SGA - Representante
-nav_order: 5
+nav_order: 2
 ---
 
 # Como se cadastrar como um representante de empresa

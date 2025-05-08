@@ -1,7 +1,7 @@
 ---
 title: Adicionando uma Empresa
 parent: SGA - Representante
-nav_order: 5
+nav_order: 1
 ---
 
 # Adicionando uma Empresa

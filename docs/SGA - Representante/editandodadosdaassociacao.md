@@ -1,7 +1,7 @@
 ---
 title: Editando Dados da Associação
 parent: SGA - Representante
-nav_order: 5
+nav_order: 3
 ---
 
 # Editando Dados da Associação
